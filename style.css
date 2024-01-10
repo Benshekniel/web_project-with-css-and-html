@@ -1,0 +1,36 @@
+.header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100px;
+   background-color: rgb(234, 234, 235);
+   height: 400px;
+
+}
+
+.pra {
+   width: 300px;
+}
+
+.imgtes {
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+}
+
+.row {
+   text-align: center;
+}
+
+.col {
+   display:flex;
+   justify-content: center;
+}
+
+.btn {
+   border-radius: 0;
+}
+
+.foot {
+   background-color: rgb(234, 234, 235);
+}
